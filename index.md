@@ -6,4 +6,4 @@ Welcome to Taylor O'Brien portfolio website!
 
 Email: taylor.obrien@colorado.edu
 
-Linkedin: https://www.linkedin.com/in/taylorobrien21/
+Linkedin: <https://www.linkedin.com/in/taylorobrien21/>
