@@ -2,6 +2,8 @@
 
 Welcome to Taylor O'Brien portfolio website!
 
+![Wilmington, NC maximum temperature plot](updated_wilm_temps.jpeg)
+
 ![Wilmington, NC temperature plot](updated_wilm_temps.jpeg)
 
 ## Contacts
