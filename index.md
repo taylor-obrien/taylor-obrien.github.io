@@ -2,7 +2,7 @@
 
 Welcome to Taylor O'Brien portfolio website!
 
-![Wilmington, NC temperature plot](wilmington_nc_temps.jpeg)
+![Wilmington, NC temperature plot](updated_wilm_temps.jpeg)
 
 ## Contacts
 
