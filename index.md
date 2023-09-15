@@ -3,6 +3,7 @@
 Welcome to Taylor O'Brien portfolio website!
 
 ***
+
 Projects:
     * [Week 2 Assignment: Temperature over time in Wilmington, North Carolina](https://taylor-obrien.github.io/notebooks/wilmingtontemps.html)
 
