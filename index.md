@@ -2,9 +2,12 @@
 
 Welcome to Taylor O'Brien portfolio website!
 
-## Week 2 Assignment
+***
 
-![Wilmington, NC maximum temperature plot](updated_wilm_temps.jpeg)
+Projects:
+    * [Week 2 Assignment: Temperature over time in Wilmington, North Carolina](https://taylor-obrien.github.io/notebooks/wilmingtontemps.html)
+
+***
 
 ## Contacts
 
