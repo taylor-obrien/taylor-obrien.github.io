@@ -8,6 +8,7 @@ Projects:
 
 * [Week 2 Assignment: Temperature over time in Wilmington, North Carolina](https://taylor-obrien.github.io/notebooks/wilmingtontemps.html)
 * [Week 3 Assignment: Time series of streamflow in Boulder Creek, Boulder, Colorado](https://taylor-obrien.github.io/notebooks/bouldercreek-timeseries.html)
+* [Week 4 & 5 Assignment: NDVI Assessment of the 2018 Reynolds Lake Fire near Darby, Montana](https://taylor-obrien.github.io/notebooks/reynoldslake-ndvi.html)
 
 ***
 
